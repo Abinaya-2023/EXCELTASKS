@@ -1,2 +1,2 @@
-- Hello 😊 I am Abinaya. I have completed my excel course from Great Learning. I have implemented the formulas and functions that I learnt from that in the spreasheet below:
+- Hello 😊 I am Abinaya. I have completed my excel course from Great Learning. I have implemented the formulas and functions that I learnt from that in the spreadsheet below:
 - https://docs.google.com/spreadsheets/d/1SIvSRq3Xm4Oia3ZRf6xJyl3rLpVoEoY25hfjBi_RttY/edit?usp=drive_link&resourcekey=0-ZbVgg2mNPakivy-EDjiXmA
